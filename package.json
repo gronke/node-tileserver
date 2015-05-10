@@ -21,5 +21,17 @@
   "bugs": {
     "url": "https://github.com/rurseekatze/node-tileserver/issues"
   },
-  "homepage": "https://github.com/rurseekatze/node-tileserver"
+  "homepage": "https://github.com/rurseekatze/node-tileserver",
+  "dependencies": {
+    "byline": "^4.2.1",
+    "canvas": "^1.2.2",
+    "graceful-fs": "^3.0.6",
+    "http-proxy": "^1.11.1",
+    "log4js": "^0.6.24",
+    "mkdirp": "^0.5.0",
+    "pg": "^4.3.0",
+    "rbush": "^1.4.0",
+    "toobusy-js": "^0.4.1",
+    "touch": "0.0.3"
+  }
 }
