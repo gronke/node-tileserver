@@ -1,0 +1,25 @@
+{
+  "name": "node-tileserver",
+  "version": "0.3.0",
+  "description": "A lightweight tileserver based on NodeJS for serving bitmap and vector tiles.",
+  "main": "tileserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rurseekatze/node-tileserver.git"
+  },
+  "keywords": [
+    "node",
+    "osm",
+    "osm2pgsql",
+    "vectortile"
+  ],
+  "author": "Alexander Matheisen <info@matheisen.org>",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/rurseekatze/node-tileserver/issues"
+  },
+  "homepage": "https://github.com/rurseekatze/node-tileserver"
+}
